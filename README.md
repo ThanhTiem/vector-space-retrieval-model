@@ -1,2 +1,2 @@
 # vector-space-retrieval-model
-IR:
+IR: index and query 
